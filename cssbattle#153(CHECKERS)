@@ -1,0 +1,26 @@
+<div class="rectangle"></div>
+<div class="circle"></div>
+<style>
+  *{
+    background:#E3516E;
+  }
+  .rectangle,.circle{
+    background:#FADE8B;
+    position:fixed;
+  }
+  .rectangle{
+    width:40px;
+    height:40px;
+    top:50px;
+    left:100px;
+    box-shadow:80px 0 0 #FADE8B,160px 0 0 #FADE8B,40px 40px #FADE8B,120px 40px #FADE8B,0 80px #FADE8B,80px 80px #FADE8B,160px 80px #FADE8B,40px 120px #FADE8B,120px 120px #FADE8B,0 160px #FADE8B,80px 160px #FADE8B,160px 160px #FADE8B
+  }
+  .circle{
+    width:20px;
+    height:20px;
+    top:60px;
+    left:150px;
+    border-radius:100%;
+    box-shadow:80px 0 #FADE8B,-40px 40px #FADE8B,40px 40px #FADE8B,120px 40px #FADE8B,-40px 120px #FADE8B,40px 120px #FADE8B,120px 120px #FADE8B,0 160px #FADE8B,80px 160px #FADE8B
+  }
+</style>
