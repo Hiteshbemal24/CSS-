@@ -1,0 +1,26 @@
+<div class="a"></div>
+<div class="b"></div>
+<style>
+ *{
+   background:#6592CF; 
+  }
+  .a,.b{
+    position:fixed;
+    background:#060F55;  
+  }
+  .a{
+    bottom:0;
+    left:120px;
+    width:30px;
+    height:80%;
+    border-radius:20px 20px 0 0;
+    box-shadow:130px 0 #060F55;
+  }
+  .b{
+    width:100px;
+    height:30px;
+    top:120px;
+    left:150px;
+    box-shadow:0 60px #060F55,0 120px #060F55;
+  }
+</style>
