@@ -1,0 +1,21 @@
+<a></a>
+<style>
+*{background:#F5D6B4;}
+  a{position:fixed;
+   height:60;
+   width:111;
+   left:105;
+   top:115;
+   border:40px solid #D86F45;
+   border-radius:0px 0px 103px 100px;
+border-top:0;}
+a::before{content:"";
+position:absolute;
+background:#D86F45;
+width:41;
+height:40;
+top:-15;
+left:-40;
+border-radius:100px;
+box-shadow:150px 0 #D86F45;}
+</style>
