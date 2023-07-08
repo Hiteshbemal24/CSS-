@@ -1,0 +1,7 @@
+<a></a>
+<style>
+  *{background:#E3516E}
+a{position:absolute;background:#FADE8B;height:150;width:150;left:125;top:75}
+a::after{content:"";position:absolute;background:#FADE8B;height:149;width:150;transform:rotate(45deg);}
+</style>
+
