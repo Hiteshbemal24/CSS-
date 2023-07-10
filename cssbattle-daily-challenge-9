@@ -1,0 +1,31 @@
+<a></a>
+<b></b>
+<style>
+  *{background:#6592CF}
+a{
+  position:absolute;
+  background:#060F55;
+  height:200;
+  width:200;
+  left:100;
+  top:50;
+  border-radius:100px;
+}
+a::after{
+  content:"";
+  position:absolute;
+  height:60;
+  width:60;
+  background:#6592CF;
+  left:70;
+  top:40;
+  border-radius:50px;}
+b{position:absolute;
+  background:#6592CF;
+  width:94;
+  height:85;
+  left:153;
+  top:156;
+  border-radius:0px 110px 0px 101px;
+  transform:rotate(-42deg);}
+</style>
