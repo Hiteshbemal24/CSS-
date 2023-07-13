@@ -1,0 +1,27 @@
+<a></a>
+<style>
+*{
+background:#4F77FF;
+}
+a{
+position:absolute;
+background:#FFFFFF;
+height:160;
+width:160;
+left:120;
+top:70;
+border-radius:100px
+}
+a::after{
+content:"";
+position:absolute;
+width:10;
+height:161;
+background:#4F77FF;
+rotate:45deg;
+left:60;
+top:-16;
+box-shadow:20px 0 #4F77FF,40px 0 #4F77FF;
+}
+</style>
+
