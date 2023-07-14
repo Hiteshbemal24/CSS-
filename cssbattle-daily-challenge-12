@@ -1,0 +1,33 @@
+<a></a>
+<b></b>
+<style>
+*{
+background:#62306D;
+}
+a{
+position:absolute;
+width:100;
+height:100;
+outline:20px solid #F7EC7D;
+border-radius:50%;
+left:150;
+top:70;
+}
+a::after{
+content:"";
+position:absolute;
+width:90;
+height:80;
+background:#F7EC7D;
+top:100;
+left:5
+}
+b{
+position:absolute;
+left:155;
+top:190;
+border-bottom:60px solid #62306D;
+border-left:45px solid #F7EC7D;
+border-right:45px solid #F7EC7D;
+}
+</style>
