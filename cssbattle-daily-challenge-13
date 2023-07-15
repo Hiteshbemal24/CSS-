@@ -1,0 +1,9 @@
+<a></a>
+<b></b>
+<style>
+*{background:#E3516E}
+a{position:fixed;background:#FADE8B;width:140;height:140;border-radius:50%;left:130;top:100;}
+a::after{content:"";position:fixed;background:#E3516E;height:20;width:140;top:110}
+b{position:fixed;background:#FADE8B;width:90;height:60;top:60;left:155;border-radius:50px 50px 12px 12px}
+b::after{content:"";position:fixed;width:40;height:40;outline:10px solid #E3516E;border-radius:50%;top:175;left:180}
+</style>
