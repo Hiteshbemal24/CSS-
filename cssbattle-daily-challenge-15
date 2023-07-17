@@ -1,0 +1,25 @@
+<a></a>
+<style>
+a{
+  position:fixed;
+  background:#060F55;
+  width:320;
+  height:110;
+  top:0;
+  left:0;
+  border:40px solid #6592CF;
+  border-bottom:0;
+}
+a::after{
+  content:"";
+  position:fixed;
+  background:#6592CF;
+  width:320;
+  height:110;
+  bottom:0;
+  left:0;
+  border:40px solid #060F55;
+  border-top:0;
+}
+</style>
+
