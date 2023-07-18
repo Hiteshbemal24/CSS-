@@ -1,0 +1,15 @@
+<a></a>
+<style>
+*{
+background:#926927;
+}
+a{
+position:fixed;
+width:50;
+border-width:100px 125px;
+border-color:transparent  #F8B140;
+border-style:solid;
+top:50;
+left:50;
+}
+</style>
