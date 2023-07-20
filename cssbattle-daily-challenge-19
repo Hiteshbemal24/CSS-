@@ -1,0 +1,13 @@
+<div></div>
+<a></a>
+<b></b>
+<style>
+*{background:#4F77FF;}
+div,a,b{position:fixed}
+a,b{background:#1038BF}
+div{height:170;width:300;background:#FFFFFF;-webkit-clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+clip-path: polygon(24% 6%, 76% 6%, 100% 47%, 100% 100%,0% 100%, 0% 47%);left:50;top:60}
+a{width:40;height:250;bottom:0;left:180;border-radius:50px 50px 0 0px;}
+b{width:40;height:20;left:75;bottom:50;border-radius:0 0 50px 50px;box-shadow:40px 0 #1038BF,170px 0 #1038BF,210px 0 #1038BF}
+</style>
+
