@@ -1,0 +1,8 @@
+<a></a>
+<b></b>
+<style>
+*{background:#E3516E}
+a,b{position:fixed;background:#FADE8B}
+a{height:100;width:160;clip-path:polygon(50% 0%, 0% 100%, 100% 100%);left:120;top:50}
+b{width:650;height:175;clip-path: polygon(25.5% 25%,76% 25%,62.4% 75.5%,39% 75.5%);left:-130;top:118}
+</style>
