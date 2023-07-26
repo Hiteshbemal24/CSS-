@@ -1,0 +1,5 @@
+<a></a>
+<style>
+*{background:#F5D6B4}
+a{position:fixed;background:#D86F45;width:100;height:100;left:150;top:50;border-radius:50%;box-shadow:-60px 100px #D86F45,60px 100px #D86F45}
+</style>
