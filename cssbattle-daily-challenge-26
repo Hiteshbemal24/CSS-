@@ -1,0 +1,7 @@
+<a></a>
+<b></b>
+<style>
+*{background:#4F77FF}
+a{position:fixed;background:#1038BF;width:300;height:130;clip-path:polygon(50% 0%, 0% 100%, 100% 100%);left:50;top:70}
+b{content:"";position:fixed;background:#FFFFFF;width:160;height:160;clip-path:polygon(50% 0%, 0% 100%, 100% 100%);top:70;left:120}
+</style>
