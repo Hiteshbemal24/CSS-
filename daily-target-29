@@ -1,0 +1,10 @@
+<a></a>
+<b></b>
+<c></c>
+<style>
+*{background:#998235}
+a,b,c{position:fixed}
+a{background:#0B2429;width:28;height:209;left:181;top:50;transform:skew(-45deg)}
+b{background:#0B2429;width:85;height:209;left:162;top:50;transform:skew(45deg)}
+c{background:#998235;width:29;height:169;left:190;top:70;transform:skew(45deg)}
+</style>
