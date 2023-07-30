@@ -1,0 +1,5 @@
+<a></a>
+<style>
+body{background:#E3516E;display:grid;place-items:center;rotate:45deg}
+a{background:#FADE8B;width:160;height:160;box-shadow:0 190px #FADE8B,0 -190px #FADE8B,190px 0 #FADE8B,-190px 0 #FADE8B}
+</style>
