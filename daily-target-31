@@ -1,0 +1,7 @@
+<div id="a">
+<div id="b">
+<style>
+*{background:#F5D6B4}
+div{position:fixed;background:#D86F45;height:125;width:250;top:0;left:75;border-radius:0 0 500px 500px}
+#b{rotate:180deg;top:175}
+</style>
