@@ -1,0 +1,10 @@
+<div id="t"></div>
+<div id="b"></div>
+<p></p>
+<style>
+body{background:#62306D;margin:0}
+div{position:absolute;background:#F7EC7D;width:220;height:170;right:0}
+#t{clip-path:polygon(8px 46%,8.6% 26%,14% 10%,18% 0,100% 0,100% 100%,0 100%,0 89%,1px 70%,4px 60%)}
+#b{bottom:0;width:180;height:180;clip-path:polygon(0 0,100% 0,100% 100%,22% 100%,17% 90%,12% 79%,11px 62%,4px 45%,0 27%,0 10%)}
+p{background:#F7EC7D;width:60px;height:60px;border-radius:50%;translate:60px 65px;box-shadow:220px 0 #62306D}
+</style>
