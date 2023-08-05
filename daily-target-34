@@ -1,0 +1,2 @@
+<a></a><b></b><c></c><d></d><e></e><style>*{background:#E3516E}
+b,c,d,e{position:fixed;background:#E3516E}a{position:fixed;border:70px solid #FADE8B;padding:30px;border-radius:100%;left:100;top:50}b{width:20;height:30;left:190;top:70;border-radius:40px;box-shadow:0 130px #E3516E}c{width:20;height:30;left:144;top:89;border-radius:40px;rotate:-45deg;box-shadow:0 130px #E3516E}d{width:20;height:30;left:236;top:89;border-radius:40px;rotate:45deg;box-shadow:0 130px #E3516E}e{width:30;height:20;left:120;top:140;border-radius:40px;box-shadow:130px 0 #E3516E}</style>
