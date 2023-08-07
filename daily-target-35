@@ -1,0 +1,10 @@
+<a id="l"></a>
+<a></a>
+<a id="r"></a>
+<style>
+body{background:#6592CF;display:flex;justify-content:center;align-items:end;margin:0}
+a{background:#060F55;width:40;height:200}
+#l,#r{height:120}
+#l{rotate:45deg;translate:12px -112px;border-radius:20px 0 0}
+#r{rotate:-45deg;translate:-12px -112px;border-radius:0 20px 0 0}
+</style>
