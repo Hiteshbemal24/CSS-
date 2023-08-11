@@ -1,0 +1,5 @@
+<a></a>
+<style>
+*{background:linear-gradient(to left,#F7EC7D 50%,#62306D 50%)}
+a{position:fixed;background:linear-gradient(to left,#62306D 50%,#F7EC7D 50%);width:200;height:200;border-radius:50%;left:100;top:50}
+</style>
