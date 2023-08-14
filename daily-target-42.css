@@ -1,0 +1,10 @@
+<a></a>
+<b></b>
+<c></c>
+<style>
+*{background:#6592CF}
+a,b,c{position:fixed;border:20px solid #060F55;border-radius:50%}
+c{width:200;height:200;left:80;top:180}
+b{width:280;height:280;left:40;top:140}
+a{width:361;height:360;top:100;left:-1}
+</style>
