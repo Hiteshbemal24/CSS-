@@ -1,0 +1,11 @@
+<a class="e"></a>
+<a class="m"></a>
+<a class="m"></a>
+<a class="e"></a>
+<style>
+body{background:#926927;display:grid;place-content:center;place-items:center}
+a{background:#F8B140}
+.e{width:150;height:20;border-radius:10px}
+.m{width:100;height:80;border-radius:0 0 30px 30px}
+a:nth-of-type(3){rotate:180deg}
+</style>
