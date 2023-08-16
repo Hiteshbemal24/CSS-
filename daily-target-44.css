@@ -1,0 +1,8 @@
+<a></a>
+<b></b>
+<style>
+*{background:#F5D6B4}
+a,b{position:fixed;background:#D86F45}
+a{height:150;width:150;left:125;top:75;border-radius:10px}
+b{height:60;width:60;left:170;top:45;border-radius:50%;box-shadow:0 150px #D86F45,75px 75px #D86F45,-75px 75px #F5D6B4}
+</style>
