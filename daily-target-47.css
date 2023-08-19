@@ -1,0 +1,13 @@
+<div id="o">
+  <div id="m">
+    <div id="i"></div>
+  </div>
+</div>
+<style>
+body{background:#E3516E;display:grid;place-items:center}
+div{border:15px solid #FADE8B}
+#o{width:130;height:130;rotate:45deg}
+#m{width:90;height:90}
+#i{width:50;height:50}
+#m,#i{translate:25px 25px}
+</style>
