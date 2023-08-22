@@ -1,0 +1,6 @@
+<a><b>
+<style>
+body{background:#926927}
+a,b{position:fixed;background:#F8B140;width:200;height:100;border-radius:100px 100px 0 0;rotate:90deg;top:100;left:30}
+b{rotate:180deg;top:-140;left:0}
+</style>
