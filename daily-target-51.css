@@ -1,0 +1,6 @@
+<div><div id="s"></div></div>
+<style>
+body{background:#F5D6B4;display:grid;place-items:center}
+div{width:200;height:200;background:linear-gradient(to bottom left,#D86F45 50%,#F5D6B4 50%)}
+#s{scale:0.5;translate:-50px 50px}
+</style>
