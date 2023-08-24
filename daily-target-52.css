@@ -1,0 +1,9 @@
+<div></div>
+<div id="t"></div>
+<div id="b"></div>
+<div></div>
+<style>
+body{background:#4F77FF;display:grid;place-content:center;grid-template-columns:120px 120px}
+div{background:#FFFFFF;height:120;border-radius:0 100%}
+#t,#b{rotate:90deg}
+</style>
