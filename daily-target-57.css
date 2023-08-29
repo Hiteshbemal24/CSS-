@@ -1,0 +1,8 @@
+<div><div id="a"><b>
+<style>
+*{background:#D669EC}
+div,b{position:fixed}
+div{border:20px solid #FDFBF8;width:100;height:100;border-radius:50%;left:40;top:80}
+#a{left:220}
+b{background:#FDFBF8;width:175;height:20;left:114;top:200}
+</style>
