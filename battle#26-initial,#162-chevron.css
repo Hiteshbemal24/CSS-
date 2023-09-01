@@ -1,0 +1,9 @@
+<div id="a"></div>
+<div id="b"></div>
+<style>
+body{background:#998235;display:flex;justify-content:center;align-items:center}
+div{position:fixed}
+#a,#b{width:70;height:70}
+#a{background:#FCBE5C;rotate:-45deg;left:215;top:140}
+#b{background:#0B2429;rotate:45deg;left:140;height:140}
+</style>
