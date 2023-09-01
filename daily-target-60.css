@@ -1,0 +1,12 @@
+<div id="a"></div>
+<div id="b"></div>
+<div id="c"></div>
+<div id="d"></div>
+<style>
+body{background:#66284A;display:flex;justify-content:center;align-items:center}
+div{background:#F0CD48;position:fixed}
+#a{width:150;height:150;border-radius:50%}
+#b,#c,#d{width:40;height:240;border-radius:20px}
+#c{rotate:60deg}
+#d{rotate:120deg}
+</style>
