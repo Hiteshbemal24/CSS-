@@ -1,0 +1,10 @@
+<div id="a"></div>
+<div id="b"></div>
+<div id="c"></div>
+<style>
+body{background:#E3516E;display:flex;justify-content:center;align-items:center}
+div{position:fixed}
+#a{background:#FADE8B;width:184;height:184}
+#b,#c{background:#E3516E;width:30;height:260;rotate:45deg}
+#c{rotate:-45deg}
+</style>
