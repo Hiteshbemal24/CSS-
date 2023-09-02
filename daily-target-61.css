@@ -1,0 +1,8 @@
+<p a><p b><p c>
+<style>
+*{background:#D669EC}
+p{position:fixed;background:#FDFBF8;width:30;height:80;left:60;bottom:69;padding:10px 0;background-clip:content-box;border-top:10px solid #FDFBF8;border-bottom:10px solid #FDFBF8}
+[a]{-webkit-box-reflect:right 170px}
+[b]{left:110;height:60;-webkit-box-reflect:right 70px}
+[c]{left:160;height:90;-webkit-box-reflect:right 120px}
+</style>
