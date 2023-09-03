@@ -1,0 +1,7 @@
+<div id="a"><div id="b"><div id="c">
+<style>
+body{background:#D86F45;display:grid;justify-content:center;margin:30}
+#a,#c{background:#F0CD48;width:180;height:90;border-radius:100px 100px 0 0}
+#c{position:fixed;rotate:180deg;bottom:30}
+#b{background:#FDFBF8;width:180;height:40;position:fixed;top:130}
+</style>
