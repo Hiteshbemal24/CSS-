@@ -1,0 +1,8 @@
+<p a><p b><p c><p d>
+<style>
+body{background:#763EDF;display:flex;justify-content:center;align-items:center}
+p{position:fixed;background:#6BD0FA;width:80;height:80;left:200;top:134}
+[a]{top:54;left:120}
+[b]{top:34;left:220}
+[c]{top:154;left:100}
+</style>
