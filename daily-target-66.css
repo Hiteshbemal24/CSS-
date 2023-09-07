@@ -1,0 +1,7 @@
+<a id="r"><a id="c">
+<style>
+body{background:#C52184;display:flex;justify-content:center;align-items:center}
+a{background:#F9B4ED;position:fixed}
+#r{width:88;height:100}
+#c{width:100;height:100;left:50;border-radius:50%;box-shadow:0 0 0 25px #C52184,200px 0 #F9B4ED,200px 0 0 25px #C52184}
+</style>
