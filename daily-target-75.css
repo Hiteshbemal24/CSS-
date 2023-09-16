@@ -1,0 +1,9 @@
+<p a><p b><p c><p d>
+<style>
+body{background:#8647E6}
+p{background:#EFEB99;position:fixed}
+[a]{width:200;height:200;border-radius:50%;left:100;top:34}
+[b],[c],[d]{position:fixed;border:20px solid #8647E6;width:60;height:60;left:150;top:84;background:transparent}
+[c]{top:4;left:230}
+[d]{top:164;left:70}
+</style>
