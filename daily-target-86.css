@@ -1,0 +1,6 @@
+<a><b>
+<style>
+*{background:#FEFAE3}
+a,b{position:fixed;background:#B17036;width:60;height:60;left:60;top:175;box-shadow:0 0 0 50px #FEFAE3,55px -55px 0 55px #D4A469}
+b{rotate:180deg;left:280;top:65}
+</style>
