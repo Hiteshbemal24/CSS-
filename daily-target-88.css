@@ -1,0 +1,7 @@
+<a><b>
+<style>
+*{background:#B5D1FB}
+a,b{position:fixed}
+a{background:#230259;width:200;height:200;border-radius:50%;left:100;top:75}
+b{width:0;height:0;background:#8819F6;border-bottom:150px solid #8819F6;border-left:150px solid #B5D1FB;border-right:150px solid #B5D1FB;left:50;top:25}
+</style>
