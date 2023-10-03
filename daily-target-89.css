@@ -1,0 +1,10 @@
+<a><b><c><d><e>
+<style>
+*{background:#FEFAE0}
+a,b,c,d,e{background:#9CCCDB;position:fixed}
+a{height:220;width:220;border-radius:50%;top:40;left:90}  
+b{width:80;height:80;border-radius:50%;left:160;top:110;box-shadow:0 0 0 50px #FEFAE0}
+c,d,e{width:20;height:70;top:50;left:190}
+d{rotate:120deg;top:150;left:250}
+e{rotate:120deg;top:104;left:60}
+</style>
