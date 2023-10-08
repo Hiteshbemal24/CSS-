@@ -1,0 +1,8 @@
+<a><b><c>
+<style>
+*{background:#ED6A9D}
+a,b,c{position:fixed}
+a{width:160;height:160;border:40px solid #050044;border-radius:50%;left:80;top:30}
+b,c{width:240;height:40;top:130;left:80}
+c{rotate:90deg}
+</style>
