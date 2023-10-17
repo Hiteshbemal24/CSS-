@@ -1,0 +1,8 @@
+<p a><p b><c><d>
+<style>
+*{background:#ED6A9D}
+p{background:linear-gradient(45deg,#ED6A9D 50%,#050044 50%);position:fixed;width:100;height:100;left:100;top:34}
+[b]{left:200}
+c,d{background:linear-gradient(45deg,#ED6A9D 50%,#050044 50%);position:fixed;width:100;height:100;top:150}
+d{left:100}
+</style>
