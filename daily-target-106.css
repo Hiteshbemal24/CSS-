@@ -1,0 +1,5 @@
+<p a><p b><p c>
+<style>
+body{background:#0D004C;display:grid;justify-content:center;grid-template:center;margin:60}
+p{background:#B8B7CC;width:120;height:30;margin-top:0;margin-left:120;box-shadow:-120px 30px #B8B7CC}
+</style>
