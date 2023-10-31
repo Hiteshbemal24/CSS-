@@ -1,0 +1,9 @@
+<a><b><c><d><e>
+<style>
+*{background:#763258}
+a,b,c,d,e{position:fixed;height:30;width:30;border-top:30px solid #FAD5E5;border-right:30px solid #FAD5E5;left:110;top:60}
+b{left:170;top:120}
+c{left:230;top:180}
+d{left:230;border-color:#F067A6}
+e{left:110;top:180;border-color:#F067A6}
+</style>
