@@ -1,0 +1,11 @@
+<a><b><d><e><c>
+<style>
+*{background:#F2644D}
+a,b{background:#FFFFFF;position:fixed}
+a{width:200;height:30;left:100;top:90}
+b{width:180;height:90;top:120;left:110}
+d,e{position:fixed;background:#6DA7FF}
+d{width:180;height:10}
+e{width:30;height:70;left:240}
+c{width:0;height:0;border-left:16px solid #6DA7FF;border-right:14px solid #6DA7FF;border-bottom:25px solid#FFFFFF;top:165;left:240;position:fixed}
+</style>
